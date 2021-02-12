@@ -1,0 +1,5 @@
+20:27:52.495 [TestNG-tests-1] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Navigated to url
+20:28:02.185 [TestNG-tests-1] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Driver closed in TitelValidationTest
+20:28:07.796 [TestNG-tests-2] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Driver closed in HomePageTest
+20:29:55.556 [TestNG-tests-1] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Chrome driver starting
+20:30:03.574 [TestNG-tests-1] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Navigated to url

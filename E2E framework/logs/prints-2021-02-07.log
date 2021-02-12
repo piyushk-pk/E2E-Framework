@@ -1,0 +1,6 @@
+00:01:34.257 [main] INFO  piyush.E2EFrameworkProject_Section29.Base - Navigated to url
+00:02:09.415 [main] INFO  piyush.E2EFrameworkProject_Section29.Base - Titel Validated
+00:02:48.826 [main] INFO  piyush.E2EFrameworkProject_Section29.Base - Driver closed in HomePageTest
+00:02:49.595 [main] INFO  piyush.E2EFrameworkProject_Section29.Base - Driver closed in TitelValidationTest
+00:15:39.387 [main] INFO  piyush.E2EFrameworkProject_Section29.Base - Chrome driver starting
+00:15:47.645 [main] INFO  piyush.E2EFrameworkProject_Section29.Base - Navigated to url

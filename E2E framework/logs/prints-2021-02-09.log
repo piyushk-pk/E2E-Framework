@@ -1,0 +1,5 @@
+12:48:47.536 [main] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Driver closed in TitelValidationTest
+14:59:07.801 [TestNG-tests-1] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Chrome driver starting
+14:59:15.091 [TestNG-tests-1] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Navigated to url
+14:59:24.227 [TestNG-tests-1] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Titel Validated
+14:59:25.036 [TestNG-tests-1] INFO  piyush.E2EFrameworkProject_Section29.Base1 - Driver closed in TitelValidationTest

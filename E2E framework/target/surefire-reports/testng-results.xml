@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28779" started-at="2021-02-09T09:29:07Z" finished-at="2021-02-09T09:29:36Z">
+    <groups>
+    </groups>
+    <test name="TitleValidation" duration-ms="17275" started-at="2021-02-09T09:29:07Z" finished-at="2021-02-09T09:29:25Z">
+      <class name="piyush.E2EFrameworkProject_Section29.TitleValidationTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:piyush.E2EFrameworkProject_Section29.TitleValidationTest@1fd14d74]" name="initialize" is-config="true" duration-ms="16402" started-at="2021-02-09T09:29:07Z" finished-at="2021-02-09T09:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="titleValidation()[pri:0, instance:piyush.E2EFrameworkProject_Section29.TitleValidationTest@1fd14d74]" name="titleValidation" duration-ms="71" started-at="2021-02-09T09:29:24Z" finished-at="2021-02-09T09:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+        <test-method status="PASS" signature="close()[pri:0, instance:piyush.E2EFrameworkProject_Section29.TitleValidationTest@1fd14d74]" name="close" is-config="true" duration-ms="770" started-at="2021-02-09T09:29:24Z" finished-at="2021-02-09T09:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- piyush.E2EFrameworkProject_Section29.TitleValidationTest -->
+    </test> <!-- TitleValidation -->
+    <test name="HomePage" duration-ms="28779" started-at="2021-02-09T09:29:07Z" finished-at="2021-02-09T09:29:36Z">
+      <class name="piyush.E2EFrameworkProject_Section29.HomePageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:piyush.E2EFrameworkProject_Section29.HomePageTest@7e19ebf0]" name="initialize" is-config="true" duration-ms="7330" started-at="2021-02-09T09:29:07Z" finished-at="2021-02-09T09:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:piyush.E2EFrameworkProject_Section29.HomePageTest@7e19ebf0]" name="basePageNavigation" duration-ms="11470" started-at="2021-02-09T09:29:15Z" data-provider="getData" finished-at="2021-02-09T09:29:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:piyush.E2EFrameworkProject_Section29.HomePageTest@7e19ebf0]" name="basePageNavigation" duration-ms="8962" started-at="2021-02-09T09:29:26Z" data-provider="getData" finished-at="2021-02-09T09:29:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[newusername@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newPassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="close()[pri:0, instance:piyush.E2EFrameworkProject_Section29.HomePageTest@7e19ebf0]" name="close" is-config="true" duration-ms="679" started-at="2021-02-09T09:29:35Z" finished-at="2021-02-09T09:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- piyush.E2EFrameworkProject_Section29.HomePageTest -->
+    </test> <!-- HomePage -->
+  </suite> <!-- Suite -->
+</testng-results>

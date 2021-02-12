@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="pageObject.Listeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="TitleValidation(failed)" parallel="tests">
+    <classes>
+      <class name="piyush.E2EFrameworkProject_Section29.TitleValidationTest">
+        <methods>
+          <include name="close"/>
+          <include name="titleValidation"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- piyush.E2EFrameworkProject_Section29.TitleValidationTest -->
+    </classes>
+  </test> <!-- TitleValidation(failed) -->
+</suite> <!-- Failed suite [Suite] -->
